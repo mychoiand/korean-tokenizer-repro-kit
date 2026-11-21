@@ -1,0 +1,14 @@
+[
+  {"id":"ko-basic","group":"ko","text":"오늘은 바람이 조금 불어요."},
+  {"id":"ko-spacing","group":"ko","text":"한글  띄어쓰기\t비교\n마지막 줄"},
+  {"id":"ko-nfc","group":"ko","text":"한글"},
+  {"id":"ko-nfd","group":"ko","text":"\u1112\u1161\u11ab\u1100\u1173\u11af"},
+  {"id":"ko-en","group":"mixed","text":"회의 로그를 parse하고 JSON으로 저장해요."},
+  {"id":"ko-code","group":"mixed","text":"def 합계(xs):\n    return sum(xs)  # 빈 목록도 테스트"},
+  {"id":"ko-number","group":"mixed","text":"샘플 024: 12.5 ms, Δ=+3%"},
+  {"id":"ko-emoji","group":"mixed","text":"테스트 완료 👩🏽‍💻✅"},
+  {"id":"en-basic","group":"en","text":"The small model replies in one turn."},
+  {"id":"ja-basic","group":"ja","text":"新しい設定を確認します。"},
+  {"id":"zh-basic","group":"zh","text":"请检查这个设置。"},
+  {"id":"empty","group":"edge","text":""}
+]
